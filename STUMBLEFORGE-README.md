@@ -2,13 +2,17 @@
 
 **Repo:** [GitHub](https://github.com/stumbleforge/customized-page-demo)
 
-**Live:** _coming soon!_
+**Live Demo:** [GitHub Pages](https://stumbleforge.github.io/customized-page-demo/)
+
+**Original:** [HTML5 UP "Phantom" Template](https://html5up.net/phantom)
 
 ---
 
 ## Description
 
 I started with a clean template and gave it a fresh look by updating fonts, colors, and spacing. The layout was refined to feel more open and responsive across devices.
+
+Look at CHANGELOG.md to see the changes I made and the rationale behind them!
 
 ---
 
@@ -41,6 +45,8 @@ open index.html
 
 You can also view the live demo (coming soon!) or explore the code:
 
-- [GitHub Pages]() _coming soon!_
+- [GitHub Pages](https://stumbleforge.github.io/customized-page-demo/)
 
 - [Source Code](https://github.com/stumbleforge/customized-page-demo)
+
+- [HTML5 UP "Phantom" Template](https://html5up.net/phantom)
